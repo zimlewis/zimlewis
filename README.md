@@ -22,8 +22,8 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 
-<img style="width:min(300px, 40%);" src="https://github-readme-stats.vercel.app/api?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-<img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 
 
 
