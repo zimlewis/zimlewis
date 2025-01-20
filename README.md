@@ -3,21 +3,14 @@
 <img src="https://github.com/zimlewis/zimlewis/blob/main/Banner.png" />
 <hr />
 <h3 align="left">About me:</h3> <br />
-<div style="display: flex; flex-direction: row;">
-  <div style="width: 60%; flex: 1;">
     - I am Zimlewis, a game developer. <br />
-    - I am currently a [FPT Polytechinc College](https://caodang.fpt.edu.vn/) student. <br /> 
+    - I am currently a <a href="https://caodang.fpt.edu.vn/">FPT Polytechinc College</a> student. <br /> 
     - My favourite game engine is Godot. <br />
     - I mostly make Undertale fangame. <br />
     - Currently I am working on my first mobile game and about to deploy it soon<sup>I hope so</sup>.<br />
     - I absolutely love romcom anime, tho that gerne is getting oversaturated right now and hardly have a good show in a while.<br />
     - I also do backend because I like playing with data. <br />
     - I do frontend using Vue too since it is a subject in my school. <br />
-  </div>
-  <div style="width: 40%; flex: 1;">
-    <img src="https://image.tensorartassets.com/cdn-cgi/image/w=600/posts/images/683062970439230677/094e54bd-4065-48d4-8f70-824c1b7ac0c9.jpg" />
-  </div>
-</div>
 
 <hr />
 <h3 align="left">Languages and Tools:</h3>
@@ -27,9 +20,11 @@
 </p>
 <hr />
 <h3 align="left">📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=Zimlewis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zimlewis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlewis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<img style="width:40%;" src="https://github-readme-stats.vercel.app/api?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+<img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="200"/>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
