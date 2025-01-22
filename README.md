@@ -21,14 +21,9 @@
 <hr />
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<center>
-   <span>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-</span>
-<span>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&layout=compact&card_width=370"/>
-</span> 
-</center>
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zimlewis&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
 
 
 
