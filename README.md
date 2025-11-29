@@ -3,15 +3,7 @@
 <img src="https://github.com/zimlewis/zimlewis/blob/main/Banner.png" />
 <hr />
 <h3 align="left">About me:</h3> <br />
-    - I am Zimlewis, a game developer. <br />
-    - I am currently a <a href="https://caodang.fpt.edu.vn/">FPT Polytechinc College</a> student. <br /> 
-    - My favourite game engine is Godot. <br />
-    - I mostly make Undertale fangame. <br />
-    - Currently I am working on my first mobile game and about to deploy it soon<sup>I hope so</sup>.<br />
-    - I absolutely love romcom anime, tho that gerne is getting oversaturated right now and hardly have a good show in a while.<br />
-    - I also do backend because I like playing with data. <br />
-    - I do frontend using Vue too since it is a subject in my school. <br />
-
+    - 🚧 Under Construction. 🚧 <br />
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
