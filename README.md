@@ -1,9 +1,19 @@
-### Welcome to Zimlewis' Github page
+### Welcome to my Github page
 <hr />
 <img src="https://github.com/zimlewis/zimlewis/blob/main/Banner.png" />
 <hr />
-<h3 align="left">About me:</h3> <br />
-    - 🚧 Under Construction. 🚧 <br />
+<h3 align="left">About me:</h3> 
+<ul>
+<li>
+Backend Engineer passionate about building scalable backend systems with Go and Rust.
+</li>
+<li>
+Experienced in developing RESTful APIs, gRPC services, containerized deployments, and CI/CD workflows. Comfortable working across backend architecture, modern frontend frameworks, Linux environments, and deployment automation.
+</li>
+<li>
+Enjoy learning modern technologies through hands-on projects, with a strong interest in software architecture, distributed systems, and high-performance applications.
+</li>
+</ul>
 <hr />
 <h3 align="left">Languages and Tools:</h3>
 
